@@ -502,4 +502,4 @@ cat /boot/refind_linux.conf
 
 :::
 
-关于 rEFind 的美化请参阅 [系统美化]()。
+关于 rEFind 的美化请参阅 [引导美化](/guide/advanced/beauty-4.md)。
